@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Vishal Nayar</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Vishal Nayar</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2026-06-24T13:13:00Z</o:Created>
-  <o:LastSaved>2026-06-24T13:13:00Z</o:LastSaved>
+  <o:LastSaved>2026-06-24T13:25:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>6</o:Words>
-  <o:Characters>36</o:Characters>
+  <o:Words>5</o:Words>
+  <o:Characters>34</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>41</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>38</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -36,8 +36,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -52,6 +50,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -724,9 +723,11 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
-Developer completed work at evening <span
-style='mso-spacerun:yes'>&nbsp;</span>. <o:p></o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'># Developer
+B story Is completed Now<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span></p>
 
 </div>
 
